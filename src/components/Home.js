@@ -1,8 +1,8 @@
-
+import '../App.css';
   
 const Home = () => {
   return (
-    <h1>Blog</h1>
+    <h1 className='prr'>PRRRRRRRrr</h1>
   )
 }
 
